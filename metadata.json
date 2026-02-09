@@ -1,0 +1,7 @@
+{
+  "name": "EnviroPlan",
+  "description": "Una aplicación profesional para la planificación y control de operaciones y producción diaria, permitiendo el seguimiento detallado de procesos, tareas y recursos humanos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
